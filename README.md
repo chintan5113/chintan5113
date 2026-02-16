@@ -63,7 +63,7 @@
 
 ### 🌐 Let's Connect
 
-- 💼 LinkedIn: **https://www.linkedin.com/in/chintan-trivedi-07715a243/**  
+- 💼 LinkedIn: [**Chintan Trivedi**](https://www.linkedin.com/in/chintan-trivedi-07715a243/)  
 - 📬 Email: **chintantrivedi5113@gmail.com**  
 
 ---
