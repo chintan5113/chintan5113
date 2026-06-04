@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Chintan Trivedi</h1>
 
 <p align="center">
-  🔌 Electronics & Communication Engineer | 🧠 VLSI & ASIC Enthusiast | ⚙️ Physical Design Aspirant  
+  🔌 Electronics & Communication Engineer | 🧠 VLSI & ASIC Enthusiast  
 </p>
 
 ---
