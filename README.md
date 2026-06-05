@@ -7,10 +7,9 @@
 ---
 
 ### 💬 About Me
-- 🎓 Final-year **Electronics and Communication Engineering** student.
+- 🎓 **Electronics and Communication Engineering** Graduate.
 - 🔍 Strong interest in **VLSI Design, ASIC Flow, and Computer Architecture**.
-- 🧩 Hands-on experience with **RTL to GDSII flow** and **analog–mixed signal design**.
-- 🚀 Actively preparing for **VLSI/Physical Design roles** and core electronics interviews.
+- 🧩 Hands-on experience with **analog–mixed signal design**.
 - 🌱 Currently strengthening **Verilog, CMOS fundamentals, and PD concepts**.
 
 ---
@@ -52,12 +51,6 @@
 | ⚡ **2-Stage Operational Amplifier** | High-gain, low-power op-amp optimized for comparator applications |
 | 🔁 **Universal Logic Gates** | Schematic to layout design using Cadence |
 | 🧮 **Comparator Circuit** | Optimized for speed and low power in ADC applications |
-
----
-
-### 📘 Academic & Exam Focus
-- 📊 **GATE EC & IN** – Strong focus on Analog, Digital, and VLSI
-- 🧠 Preparing for **MTech (VLSI/Microelectronics)** and **Core VLSI Interviews**
 
 ---
 
