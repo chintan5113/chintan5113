@@ -7,7 +7,7 @@
 ---
 
 ### 💬 About Me
-- 🎓 **Electronics and Communication Engineering** Graduate.
+- 🎓 Graduated in **Electronics and Communication Engineering**.
 - 🔍 Strong interest in **VLSI Design, ASIC Flow, and Computer Architecture**.
 - 🧩 Hands-on experience with **analog–mixed signal design**.
 - 🌱 Currently strengthening **Verilog, CMOS fundamentals, and PD concepts**.
